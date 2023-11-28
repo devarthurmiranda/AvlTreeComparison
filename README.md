@@ -1,0 +1,1 @@
+Conclusion: For this case, Avl seems so much faster
